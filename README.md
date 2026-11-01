@@ -1,0 +1,31 @@
+# Computational Biology Meets Cells
+
+Personal notes and course material from bioinformatics training — compiled while learning computational biology, single-cell analysis, and the Linux/command-line skills that the field runs on.
+
+This repo is organized by **module**, following the structure of the Singleron Free Online Bioinformatics Academy (and any other course material added later). Each module folder contains:
+
+- `notes.md` — detailed, rewritten study notes (concepts explained, commands annotated, exercises solved)
+- `assets/` — original source material (PDFs, slides, images) for reference
+
+## Modules
+
+| # | Module | Status | Notes |
+|---|---|---|---|
+| 1 | [Linux System and Environment Management](modules/01-linux-system-and-environment-management/notes.md) | ✅ Done | Linux fundamentals, file system, permissions, compression, Conda environment management |
+| 2 | CeleScope Operations Guide | ⏳ Planned | — |
+| 3 | R language data science and practice | ⏳ Planned | — |
+| 4 | Single Cell Data Exploration with Seurat | ⏳ Planned | — |
+| 5 | Cell Type Annotation | ⏳ Planned | — |
+| 6 | Gene Enrichment in Single Cell Analysis | ⏳ Planned | — |
+| 7 | Cell communication analysis and CellChat | ⏳ Planned | — |
+| 8 | Trajectory inference and Monocle practice | ⏳ Planned | — |
+
+## Why this repo exists
+
+Bioinformatics sits at the intersection of biology, statistics, and computer science — and citation activity in the field has been growing fast, driven by genomics, computational drug discovery, and AI-based structure prediction tools. This repo documents my own study path through the field as I work toward a research paper, going module by module from the ground up (Linux/Conda environment basics first, then into actual single-cell and sequence analysis tools).
+
+## Author
+
+**Prachya Biswas**
+Computer Science student, BRAC University
+[GitHub](https://github.com/prachyabiswas) · [LinkedIn](https://linkedin.com/in/prachya-biswas-06715932a)
