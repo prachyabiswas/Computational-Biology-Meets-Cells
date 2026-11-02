@@ -5,12 +5,13 @@ Personal notes and course material from bioinformatics training — compiled whi
 This repo is organized by **module**. Each module folder contains:
 
 - `notes.md` — detailed study notes (concepts explained, commands annotated, exercises solved)
+- `assets/` — a styled PDF version of the notes for offline reading/printing
 
 ## Modules
 
 | # | Module | Status | Notes |
 |---|---|---|---|
-| 1 | [Linux System and Environment Management](modules/01-linux-system-and-environment-management/notes.md) | ✅ Done | Linux fundamentals, file system, permissions, compression, Conda environment management |
+| 1 | [Linux System and Environment Management](modules/01-linux-system-and-environment-management/notes.md) ([PDF](modules/01-linux-system-and-environment-management/assets/Linux-System-and-Environment-Management-Notes.pdf)) | ✅ Done | Linux fundamentals, file system, permissions, compression, Conda environment management |
 | 2 | CeleScope Operations Guide | ⏳ Planned | — |
 | 3 | R language data science and practice | ⏳ Planned | — |
 | 4 | Single Cell Data Exploration with Seurat | ⏳ Planned | — |
