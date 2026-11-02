@@ -1,7 +1,6 @@
 # Linux System and Environment Management
 
-> Module 1 of the Singleron Free Online Bioinformatics Academy (single-cell data analysis track).
-> Source: official course slides + narrated video, rewritten as study notes with the reasoning behind each concept, not just the command syntax.
+> Module 1: Linux fundamentals and Conda environment management for bioinformatics — written as study notes with the reasoning behind each concept, not just the command syntax.
 
 ---
 

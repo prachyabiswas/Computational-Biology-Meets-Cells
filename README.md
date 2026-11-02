@@ -2,10 +2,9 @@
 
 Personal notes and course material from bioinformatics training — compiled while learning computational biology, single-cell analysis, and the Linux/command-line skills that the field runs on.
 
-This repo is organized by **module**, following the structure of the Singleron Free Online Bioinformatics Academy (and any other course material added later). Each module folder contains:
+This repo is organized by **module**. Each module folder contains:
 
-- `notes.md` — detailed, rewritten study notes (concepts explained, commands annotated, exercises solved)
-- `assets/` — original source material (PDFs, slides, images) for reference
+- `notes.md` — detailed study notes (concepts explained, commands annotated, exercises solved)
 
 ## Modules
 
