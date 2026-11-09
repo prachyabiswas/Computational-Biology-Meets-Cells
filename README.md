@@ -20,6 +20,7 @@ This repo is organized by **module**. Each module folder contains:
 | 6 | Gene Enrichment in Single Cell Analysis | ⏳ Planned | — |
 | 7 | Cell communication analysis and CellChat | ⏳ Planned | — |
 | 8 | Trajectory inference and Monocle practice | ⏳ Planned | — |
+| 9 | [Genome Replication and the Origin of Replication (ori)](modules/09-genome-replication-and-ori/notes.md) ([PDF](modules/09-genome-replication-and-ori/assets/Genome-Replication-and-Origin-of-Replication-Notes.pdf)) | 🔄 In Progress | DNA replication mechanism, the naive vs. real model, why locating ori matters, formalizing the Finding Origin of Replication problem |
 
 ## Why this repo exists
 
