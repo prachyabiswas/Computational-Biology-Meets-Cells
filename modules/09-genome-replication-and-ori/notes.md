@@ -15,10 +15,7 @@
 7. [Prep Work: Python Fundamentals](#7-prep-work-python-fundamentals)
 8. [What's Next](#8-whats-next)
 
----
-
 ## 1. Why Genome Replication Matters
-
 Before a cell can divide, it has to copy its entire genome first , otherwise the two resulting daughter cells wouldn't each get a complete set of genetic instructions, and a cell with an incomplete genome can't function. So replication always happens **before** division, not during or after it.
 
 The structural basis for this was worked out in 1953, when Watson and Crick described the double-helix structure of DNA. The key realization: the specific way the two strands pair up (A with T, G with C) isn't just a structural detail — it's effectively a built-in copying mechanism. The structure of the molecule hints directly at how it replicates.
