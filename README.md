@@ -1,3 +1,4 @@
+
 # Computational Biology Meets Cells
 
 Personal notes and course material from bioinformatics training — compiled while learning computational biology, single-cell analysis, and the Linux/command-line skills that the field runs on.
