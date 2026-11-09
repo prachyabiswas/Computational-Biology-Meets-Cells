@@ -19,11 +19,9 @@
 
 ## 1. Why Genome Replication Matters
 
-Before a cell can divide, it has to copy its entire genome first — otherwise the two resulting daughter cells wouldn't each get a complete set of genetic instructions, and a cell with an incomplete genome can't function. So replication always happens **before** division, not during or after it.
+Before a cell can divide, it has to copy its entire genome first , otherwise the two resulting daughter cells wouldn't each get a complete set of genetic instructions, and a cell with an incomplete genome can't function. So replication always happens **before** division, not during or after it.
 
 The structural basis for this was worked out in 1953, when Watson and Crick described the double-helix structure of DNA. The key realization: the specific way the two strands pair up (A with T, G with C) isn't just a structural detail — it's effectively a built-in copying mechanism. The structure of the molecule hints directly at how it replicates.
-
----
 
 ## 2. The Replication Mechanism
 
@@ -41,8 +39,6 @@ The process, in order:
 | Daughter DNA | The two new, identical DNA molecules produced by replication |
 
 **Note on the word "naive":** the diagram usually shown at this stage (unwind → template → pair → two helices) is explicitly called a *naive* view. That word choice matters — it's a deliberate signal that the real mechanism is far more involved than this picture suggests (see §3).
-
----
 
 ## 3. The Naive Model vs. Reality — Why Biology Needs Computer Science
 
