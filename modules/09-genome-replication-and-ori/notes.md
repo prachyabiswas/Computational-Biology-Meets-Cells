@@ -1,3 +1,4 @@
+
 # Genome Replication and the Origin of Replication (ori)
 
 > Module 9: Where algorithmic bioinformatics begins — using the biology of DNA replication to arrive at the first real computational problem: finding the origin of replication in a genome.
