@@ -22,6 +22,8 @@ This repo is organized by **module**. Each module folder contains:
 | 7 | Cell communication analysis and CellChat | ⏳ Planned | — |
 | 8 | Trajectory inference and Monocle practice | ⏳ Planned | — |
 | 9 | [Genome Replication and the Origin of Replication (ori)](modules/09-genome-replication-and-ori/notes.md) ([PDF](modules/09-genome-replication-and-ori/assets/Genome-Replication-and-Origin-of-Replication-Notes.pdf)) | 🔄 In Progress | DNA replication mechanism, the naive vs. real model, why locating ori matters, formalizing the Finding Origin of Replication problem |
+| 10 | [Introduction to Bioinformatics and the Molecular Basis of Life](modules/10-introduction-to-bioinformatics-and-molecular-basis-of-life/notes.md) ([PDF](modules/10-introduction-to-bioinformatics-and-molecular-basis-of-life/assets/Introduction-to-Bioinformatics-and-Molecular-Basis-of-Life-Notes.pdf)) | ✅ Done | What bioinformatics is, the central dogma, codons and mutations, sequence → structure → function, the raw-data-to-insight workflow, a first GC-content script in Python, data types, ethics of genomic data |
+| 11 | [Working with Biological Databases and File Formats](modules/11-biological-databases-and-file-formats/notes.md) ([PDF](modules/11-biological-databases-and-file-formats/assets/Biological-Databases-and-File-Formats-Notes.pdf)) | ✅ Done | GenBank/ENA/DDBJ, UniProt, PDB, pathway/disease/variant databases, FASTA vs FASTQ, Phred quality scores, GFF vs GTF, genome browsers and assemblies, reproducible retrieval with Biopython Entrez |
 
 ## Why this repo exists
 
