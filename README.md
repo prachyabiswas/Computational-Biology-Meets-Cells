@@ -14,7 +14,7 @@ This repo is organized by **module**. Each module folder contains:
 | # | Module | Status | Notes |
 |---|---|---|---|
 | 1 | [Linux System and Environment Management](modules/01-linux-system-and-environment-management/notes.md) ([PDF](modules/01-linux-system-and-environment-management/assets/Linux-System-and-Environment-Management-Notes.pdf)) | ✅ Done | Linux fundamentals, file system, permissions, compression, Conda environment management |
-| 2 | CeleScope Operations Guide | ⏳ Planned | — |
+| 2 | [CeleScope Operations Guide](modules/02-celescope-operations-guide/notes.md) ([PDF](modules/02-celescope-operations-guide/assets/CeleScope-Operations-Guide-Notes.pdf)) | ✅ Done | What CeleScope is and its multi_{assay} interfaces, the V2 bead read layout (cell barcode, UMI, poly-T), the seven pipeline steps (sample, barcode, cutadapt, STAR, featureCounts, count, analysis), reading the QC report with worked arithmetic, barcode-rank cell calling and saturation, installing with conda, building the reference, generating and running multi_rna scripts, the output directory |
 | 3 | R language data science and practice | ⏳ Planned | — |
 | 4 | Single Cell Data Exploration with Seurat | ⏳ Planned | — |
 | 5 | Cell Type Annotation | ⏳ Planned | — |
