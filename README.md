@@ -14,8 +14,8 @@ This repo is organized by **module**. Each module folder contains:
 | # | Module | Status | Notes |
 |---|---|---|---|
 | 1 | [Linux System and Environment Management](modules/01-linux-system-and-environment-management/notes.md) ([PDF](modules/01-linux-system-and-environment-management/assets/Linux-System-and-Environment-Management-Notes.pdf)) | ✅ Done | Linux fundamentals, file system, permissions, compression, Conda environment management |
-| 2 | CeleScope Operations Guide | ⏳ Planned | — |
-| 3 | R language data science and practice | ⏳ Planned | — |
+| 2 | [CeleScope Operations Guide](modules/02-celescope-operations-guide/notes.md) ([PDF](modules/02-celescope-operations-guide/assets/CeleScope-Operations-Guide-Notes.pdf)) | ✅ Done | What CeleScope is and its multi_{assay} interfaces, the V2 bead read layout (cell barcode, UMI, poly-T), the seven pipeline steps (sample, barcode, cutadapt, STAR, featureCounts, count, analysis), reading the QC report with worked arithmetic, barcode-rank cell calling and saturation, installing with conda, building the reference, generating and running multi_rna scripts, the output directory |
+| 3 | [R Language Data Science and Practice](modules/03-r-language-data-science-and-practice/notes.md) ([PDF](modules/03-r-language-data-science-and-practice/assets/R-Language-Data-Science-and-Practice-Notes.pdf)) | ✅ Done | Why R, installing R and RStudio, packages from CRAN, Bioconductor and GitHub, basic syntax, vectors, matrices, arrays, data frames and lists, factors, writing functions, the ggplot2 grammar of graphics, a single-cell worked example (UMAP labels and replicate proportions), saving figures, practice questions with answers |
 | 4 | Single Cell Data Exploration with Seurat | ⏳ Planned | — |
 | 5 | Cell Type Annotation | ⏳ Planned | — |
 | 6 | Gene Enrichment in Single Cell Analysis | ⏳ Planned | — |
